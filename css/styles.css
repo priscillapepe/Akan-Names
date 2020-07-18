@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    height: 100%;
+    padding-top: 40px;
+    background-image: url("https://food.jumia.com.gh/blog/wp-content/uploads/2017/03/traditional-items-660x400.jpg" );
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+}
+h1{
+    color: maroon;
+}
+p{
+    color:blue;
+
+}
+form{
+    color: blue;
+}
