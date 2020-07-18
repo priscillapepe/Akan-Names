@@ -9,10 +9,18 @@ body{
     background-blend-mode: darken;
 }
 h1{
-    color: maroon;
+    color: blueviolet;
+    font-weight: bolder;
+    font-style: oblique;
+    font-family: sans-serif;
 }
 p{
-    color:blue;
+    color: greenyellow;
+    font-size: large;
+    font-weight: 500;
+    font-style: italic;
+    font-weight: inherit;
+
 
 }
 form{
