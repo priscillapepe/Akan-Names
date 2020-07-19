@@ -17,5 +17,4 @@ Javascript
 priscillaungai99@gmail.com
 ### License
 licensed under[MIT license](LICENSE)
-Copyright (c) {year} ** Priscilla Ungai**
   
