@@ -1,3 +1,4 @@
+
 body{
     text-align: center;
     height: 100%;
@@ -6,23 +7,21 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-blend-mode: darken;
+    color: turquoise;
 }
 h1{
-    color: blueviolet;
+    color: turquoise;
     font-weight: bolder;
     font-style: oblique;
     font-family: sans-serif;
 }
 p{
-    color: greenyellow;
-    font-size: large;
+    color:lawngreen;
+    font-size: xx-large;
     font-weight: 500;
     font-style: italic;
     font-weight: inherit;
-
-
 }
 form{
-    color: blue;
+    color
 }
