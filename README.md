@@ -10,9 +10,9 @@
 ## Known Bugs
  None
 ## Technologies Used
-HTML
-CSS
-Javascript
+HTML: For writing the web language.
+CSS:For styling the web.
+Javascript:Putting functions into use.
 ## Support and contact details
 priscillaungai99@gmail.com
 ### License
