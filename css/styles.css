@@ -38,4 +38,8 @@ p{
 }
 .p{
     text-align: center;
+};
+.container{
+    color: tomato;
+    padding: inherit;
 }
