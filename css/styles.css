@@ -31,3 +31,8 @@ p{
     text-align: center;
     color: white;
 }
+.heading{
+    position: absolute;
+    top: auto;
+    left: auto;
+}
