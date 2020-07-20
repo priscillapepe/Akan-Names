@@ -25,3 +25,9 @@ p{
     font-style: italic;
     font-weight: inherit;
 }
+.footer{
+    position: fixed;
+    background-color: lightpink;
+    text-align: center;
+    color: white;
+}
